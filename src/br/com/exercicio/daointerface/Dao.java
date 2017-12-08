@@ -1,4 +1,4 @@
-package br.com.exercico.dao;
+package br.com.exercicio.daointerface;
 
 import java.util.List;
 

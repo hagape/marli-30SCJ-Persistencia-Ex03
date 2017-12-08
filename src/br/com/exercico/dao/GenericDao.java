@@ -5,6 +5,7 @@ import java.util.List;
 import javax.persistence.EntityManager;
 
 import br.com.exercicio.core.JpaUtil;
+import br.com.exercicio.daointerface.Dao;
 
 public class GenericDao<T> implements Dao<T> {
 
